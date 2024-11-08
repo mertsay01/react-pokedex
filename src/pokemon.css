@@ -1,0 +1,27 @@
+.pokemon {
+    padding: 2rem;
+    border: 0.2rem solid black;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    width: 35rem;
+    text-align: center;
+  }
+  
+  .pokemonimg {
+    width: 15rem;
+    height: 15rem;
+  }
+  
+  .pokemonh3 {
+    margin: 1rem 0 0.5rem;
+    border-bottom: 0.1rem solid white;
+  }
+  
+  .pokemonul {
+    list-style: none;
+  }
+  
+  .pokemonli {
+    margin: 0.5rem 0;
+  }
+  
